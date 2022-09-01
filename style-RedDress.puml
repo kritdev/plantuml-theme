@@ -17,9 +17,10 @@ skinparam stereotypeCBackgroundColor $ACCENT
 !endif
 
 !ifdef LIGHTBLUE
-!$ACCENT = "9ffcfd"
-!$ACCENTDARK = "88d8d9"
-skinparam stereotypeCBackgroundColor $ACCENTDARK
+!$ACCENT = "2a86e2"
+!$ACCENTDARK = "1a66c2"
+!$ACCENTBACKGROUND = "9ffcfd"
+skinparam stereotypeCBackgroundColor $ACCENTBACKGROUND
 !define LIGHTSTYLE
 !endif
 
